@@ -35,10 +35,10 @@ The dataset used is `SuperStore_Sales_Dataset.csv` which contains historical sal
 
 Built a fully interactive dashboard in Power BI with the following visuals:
 
-- **Donut Chart**: Sales by Segment
+- **Donut Chart**: Sales by Segment,Sales by Payment Mode,Sales by Region.
 - **Area Chart**: Monthly Sales & Profit trends
 - **Map Visualization**: Sales by State
-- **Clustered Bar Chart**: Sales by Sub-Category
+- **Clustered Bar Chart**: Sales by Sub-Category,Sales by Category,Sales by Ship Mode.
 - **Slicer**: Region filter to analyze data per region
 - **KPIs (Cards)**:
   - Total Sales
